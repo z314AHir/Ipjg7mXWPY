@@ -1,6 +1,5 @@
 {
   "globals": {
-    "ga": true,
     "chrome": true
   },
   "plugins": ["html", "json"],
