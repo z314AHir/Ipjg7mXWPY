@@ -269,7 +269,6 @@ jobs:
 
   ###############################################################################################
   - job: tests
-    trigger: pull_request
     # Suffix for job name
     identifier: "oracle-19"
     targets:
