@@ -238,7 +238,6 @@ jobs:
     tf_extra_params:
       test:
         tmt:
-          name: oracle
       environments:
         - variables:
             ORACLE_VERSION: 21.3.0
