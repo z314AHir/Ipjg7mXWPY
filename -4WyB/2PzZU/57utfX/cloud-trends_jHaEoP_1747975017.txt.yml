@@ -23,7 +23,6 @@ builds:
     flags:
       - -trimpath
       - -pgo=auto
-    ldflags:
       - -s
       - -w
 
