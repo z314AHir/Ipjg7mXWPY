@@ -1,4 +1,3 @@
-[flake8]
 ignore = E501,W503,E203,E266,E265,F811
 # E501 line too long
 # W503 clang-formatter can produce line break before binary operator
